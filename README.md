@@ -2,7 +2,6 @@
 
 ## I'm a Computer Science and Engineering student!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything about web development!
 - 👯 I’m looking to collaborate with other web developers
 - 🥅 2021 Goals: Upgrade my skills in Python and Web development!
