@@ -22,15 +22,7 @@
 [<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />]
 [<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />]
 
-<br />
-<br />
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+<br/>
 
 [instagram]: https://www.instagram.com/_sonika_prakash_/
 [linkedin]: https://www.linkedin.com/in/sonika-prakash/
