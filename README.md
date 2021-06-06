@@ -11,9 +11,9 @@
 
 ### Connect with me 😁:
 
-[<img align="left" alt="Sonika Prakash | LinkedIn" width="22px" src="https://img.icons8.com/color/100/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="Sonika Prakash | Instagram" width="22px" src="https://img.icons8.com/fluent/100/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Sonika Prakash | HackerRank" width="22px" src="https://img.icons8.com/windows/100/000000/hackerrank.png" />][hackerrank]
+[<img align="left" alt="Sonika Prakash | LinkedIn" width="30px" src="https://img.icons8.com/color/100/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Sonika Prakash | Instagram" width="30px" src="https://img.icons8.com/fluent/100/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Sonika Prakash | HackerRank" width="30px" src="https://img.icons8.com/windows/100/000000/hackerrank.png" />][hackerrank]
 
 <br />
 <br/>
@@ -22,11 +22,11 @@
 
 ### Languages and Tools I ❤ using:
 
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/100/000000/html-5--v1.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/100/000000/css3.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/100/000000/javascript.png" />][js]
-[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/100/000000/mysql-logo.png" />][mysql]
-[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/100/000000/python.png" />][python]
+[<img align="left" alt="HTML5" width="30px" src="https://img.icons8.com/color/100/000000/html-5--v1.png" />][html]
+[<img align="left" alt="CSS3" width="30px" src="https://img.icons8.com/color/100/000000/css3.png" />][css]
+[<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/100/000000/javascript.png" />][js]
+[<img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/color/100/000000/mysql-logo.png" />][mysql]
+[<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/100/000000/python.png" />][python]
 
 <br/>
 <br/>
