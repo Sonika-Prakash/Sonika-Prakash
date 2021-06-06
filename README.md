@@ -33,7 +33,7 @@
 
 ---
 
-![Sonika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonika-Prakasha&show_icons=true&theme=radical)
+![Sonika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonika-Prakash&show_icons=true&theme=radical)
 
 
 
