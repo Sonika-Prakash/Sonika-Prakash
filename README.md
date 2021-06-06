@@ -7,6 +7,8 @@
 - 🥅 2021 Goals: Upgrade my skills in Python and Web development!
 - ⚡ Fun fact: I love to draw and binge watch web series
 
+---
+
 ### Connect with me 😁:
 
 [<img align="left" alt="Sonika Prakash | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
