@@ -33,7 +33,8 @@
 
 ---
 
-[![Sonika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonika-Prakash)](https://github.com/Sonika-Prakash/github-readme-stats)
+![Sonika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonika-Prakasha&show_icons=true&theme=radical)
+
 
 
 [instagram]: https://www.instagram.com/_sonika_prakash_/
