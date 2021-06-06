@@ -1,9 +1,9 @@
-### Hi there, I'm Sonika Prakash 👋
+### Heya there, I'm Sonika Prakash 👋
 
 ## I'm a Computer Science and Engineering student!
 
-- 🌱 I’m currently learning everything about web development!
-- 👯 I’m looking to collaborate with other web developers
+- 🌱 I’m currently learning more and more about web development!
+- 👯 I’m looking to collaborate with other Python and web developers
 - 🥅 2021 Goals: Upgrade my skills in Python and Web development!
 - ⚡ Fun fact: I love to draw and binge watch web series
 
@@ -16,11 +16,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />][]
-[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />][]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />][]
-[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />][]
-[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][]
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />][html]
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />][js]
+[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />][mysql]
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][python]
 
 <br/>
 <br/>
@@ -34,3 +34,8 @@
 
 [instagram]: https://www.instagram.com/_sonika_prakash_/
 [linkedin]: https://www.linkedin.com/in/sonika-prakash/
+[html]: https://img.icons8.com/color/48/000000/html-5--v1.png
+[css]: https://img.icons8.com/color/48/000000/css3.png
+[js]: https://img.icons8.com/color/48/000000/javascript.png
+[mysql]: https://img.icons8.com/color/48/000000/mysql-logo.png
+[python]: https://img.icons8.com/color/48/000000/python.png
