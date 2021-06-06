@@ -33,12 +33,8 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Sonika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonika-Prakash)](https://github.com/Sonika-Prakash/github-readme-stats)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [instagram]: https://www.instagram.com/_sonika_prakash_/
 [linkedin]: https://www.linkedin.com/in/sonika-prakash/
