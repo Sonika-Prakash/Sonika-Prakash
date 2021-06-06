@@ -16,13 +16,21 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />]
-[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />][]
+[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />][]
+[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png" />][]
+[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/48/000000/mysql-logo.png" />][]
+[<img align="left" alt="Python" width="26px" src="https://img.icons8.com/color/48/000000/python.png" />][]
 
 <br/>
+<br/>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
 
 [instagram]: https://www.instagram.com/_sonika_prakash_/
 [linkedin]: https://www.linkedin.com/in/sonika-prakash/
