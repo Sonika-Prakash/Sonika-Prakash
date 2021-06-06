@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Upgrade my skills in Python and Web development!
 - ⚡ Fun fact: I love to sketch, listen to music and binge watch web series 
 
----
+--
 
 ### Connect with me 😁:
 
