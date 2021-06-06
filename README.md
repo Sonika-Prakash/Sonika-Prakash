@@ -9,8 +9,9 @@
 
 ### Connect with me 😁:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sonika Prakash | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Sonika Prakash | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="Sonika Prakash | HackerRank" width="22px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" />][hackerrank]
 
 <br />
 
@@ -34,6 +35,7 @@
 
 [instagram]: https://www.instagram.com/_sonika_prakash_/
 [linkedin]: https://www.linkedin.com/in/sonika-prakash/
+[hackerrank]: https://www.hackerrank.com/sonikaprakash10
 [html]: https://img.icons8.com/color/48/000000/html-5--v1.png
 [css]: https://img.icons8.com/color/48/000000/css3.png
 [js]: https://img.icons8.com/color/48/000000/javascript.png
