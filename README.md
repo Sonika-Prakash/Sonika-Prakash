@@ -1,11 +1,10 @@
 ### Heya there, I'm Sonika Prakash 👋
 
-## I'm a Computer Science and Engineering student!
-
-- 🌱 I’m currently learning more and more about web development!
-- 👯 I’m looking to collaborate with other Python and web developers
-- 🥅 2021 Goals: Upgrade my skills in Python and Web development!
-- ⚡ Fun fact: I love to sketch, listen to music and binge watch web series 
+## I'm a Computer Science and Engineering student
+- 📍 I'm from Davangere, Karnataka
+- 🌱 I’m currently upgrading my skills in Python and Web development
+- 🥅 2021 Goals: Build as many web applications as I can!
+- ⚡ Fun fact: I love to sketch, vibe to music and binge watch web series 
 
 ---
 
