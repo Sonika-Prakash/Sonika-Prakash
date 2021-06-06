@@ -7,14 +7,14 @@
 - 🥅 2021 Goals: Upgrade my skills in Python and Web development!
 - ⚡ Fun fact: I love to draw and binge watch web series
 
-### Connect with me:
+### Connect with me 😁:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools I ❤ using:
 
 [<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png" />][css]
