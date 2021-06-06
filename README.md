@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning more and more about web development!
 - 👯 I’m looking to collaborate with other Python and web developers
 - 🥅 2021 Goals: Upgrade my skills in Python and Web development!
-- ⚡ Fun fact: I love to draw and binge watch web series
+- ⚡ Fun fact: I love to sketch, listen to music and binge watch web series 
 
 ---
 
