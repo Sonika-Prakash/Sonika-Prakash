@@ -14,6 +14,9 @@
 [<img align="left" alt="Sonika Prakash | HackerRank" width="22px" src="https://img.icons8.com/windows/32/000000/hackerrank.png" />][hackerrank]
 
 <br />
+<br/>
+
+---
 
 ### Languages and Tools I ❤ using:
 
@@ -25,6 +28,8 @@
 
 <br/>
 <br/>
+
+---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
