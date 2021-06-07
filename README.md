@@ -5,7 +5,7 @@
 - 🌱 I’m currently upgrading my skills in Python and Web development
 - 🥅 2021 Goals: Build as many web applications as I can!
 - ⚡ Fun fact: I love to sketch, vibe to music and binge watch web series 
-- 🦠 I have recently deployed a Covid-19 live tracker application. [Check it out!][covid]{:target="_blank"}
+- 🦠 I have recently deployed a Covid-19 live tracker application. [Check it out!](covid){:target="_blank"}
 
 ---
 
