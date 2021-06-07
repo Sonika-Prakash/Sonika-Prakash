@@ -5,6 +5,7 @@
 - 🌱 I’m currently upgrading my skills in Python and Web development
 - 🥅 2021 Goals: Build as many web applications as I can!
 - ⚡ Fun fact: I love to sketch, vibe to music and binge watch web series 
+- 🦠 I have recently deployed a Covid-19 live tracker application. [Check it out!][covid]
 
 ---
 
@@ -44,3 +45,4 @@
 [js]: https://img.icons8.com/color/48/000000/javascript.png
 [mysql]: https://img.icons8.com/color/48/000000/mysql-logo.png
 [python]: https://img.icons8.com/color/48/000000/python.png
+[covid]: https://covid-live-tracker-app.herokuapp.com/
