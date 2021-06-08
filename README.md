@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Sonika Prakash | LinkedIn" width="34px" src="https://img.icons8.com/color/100/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Sonika Prakash | Instagram" width="34px" src="https://img.icons8.com/fluent/100/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Sonika Prakash | HackerRank" width="34px" src="https://img.icons8.com/windows/100/000000/hackerrank.png" />][hackerrank]
+[<img align="left" alt="Sonika Prakash | HackerRank" width="34px" src="https://img.icons8.com/windows/100/26e07f/hackerrank.png" />][hackerrank]
 
 <br />
 <br/>
