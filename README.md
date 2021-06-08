@@ -15,6 +15,7 @@
 [<img align="left" alt="Sonika Prakash | LinkedIn" width="34px" src="https://img.icons8.com/color/100/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Sonika Prakash | Instagram" width="34px" src="https://img.icons8.com/fluent/100/000000/instagram-new.png" />][instagram]
 [<img align="left" alt="Sonika Prakash | HackerRank" width="34px" src="https://img.icons8.com/windows/100/26e07f/hackerrank.png" />][hackerrank]
+[<img align="left" alt="Sonika Prakash | HackerRank" width="34px" src="https://img.icons8.com/fluent/100/000000/portfolio.png" />][blog]
 
 <br />
 <br/>
@@ -48,3 +49,4 @@
 [python]: https://img.icons8.com/color/48/000000/python.png
 [covid]: https://covid-live-tracker-app.herokuapp.com/
 [invmgt]: https://inventory-management-appn.herokuapp.com/
+[blog]: https://sonika-prakash.github.io
