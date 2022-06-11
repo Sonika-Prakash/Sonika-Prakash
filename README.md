@@ -1,12 +1,9 @@
 ### Heya there, I'm Sonika Prakash 👋
 
-## I'm a Computer Science and Engineering student
+## I'm a Computer Science and Engineering graduate
 - 📍 I'm from Davangere, Karnataka
-- 🌱 I’m currently upgrading my skills in Python and Web development
-- 🥅 2021 Goals: Build as many web applications as I can!
+- 🌱 I’m currently working in MapleLabs, and upgrading my skills in Web development
 - ⚡ Fun fact: I love to sketch, vibe to music and binge watch web series 
-- 🦠 I have recently deployed a Covid-19 live tracker application. [Check it out!][covid]
-- 🏪 I have also deployed a web application for Inventory Management. [Check it out!][invmgt]
 
 ---
 
