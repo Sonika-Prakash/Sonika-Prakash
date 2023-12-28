@@ -2,8 +2,8 @@
 
 ## I'm a Computer Science and Engineering graduate
 - 📍 I'm from Davangere, Karnataka
-- 🌱 I’m currently working in MapleLabs, and upgrading my skills in Web development
-- ⚡ Fun fact: I love to sketch, vibe to music and binge watch web series 
+- 🌱 I’m currently working in VS&Co, and upgrading my skills in Golang and web application development
+- ⚡ Hobbies: I love to sketch, and binge watch web series and Marvel movies
 
 ---
 
